@@ -1,0 +1,26 @@
+{
+    "locations": [
+        [{"id":1,"location_name":"Divanoodle","lat":40.024391,"lng":127.9682453,"address_line":"18 Hintze Street","image":"http://dummyimage.com/235x295.png/ff4444/ffffff","pin":"Nam tristique tortor eu pede.","share":"Ut tellus."},
+        {"id":2,"location_name":"Skinte","lat":53.3004898,"lng":-6.2634596,"address_line":"1 Pennsylvania Alley","image":"http://dummyimage.com/235x287.png/5fa2dd/ffffff","pin":"Maecenas tincidunt lacus at velit.","share":"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam."},
+        {"id":3,"location_name":"Meevee","lat":5.650804,"lng":-72.9342451,"address_line":"24744 Algoma Parkway","image":"http://dummyimage.com/233x283.png/ff4444/ffffff","pin":"Aenean fermentum.","share":"Integer a nibh."},
+        {"id":4,"location_name":"Innojam","lat":51.8978017,"lng":19.9416859,"address_line":"3 Lakewood Point","image":"http://dummyimage.com/230x282.png/ff4444/ffffff","pin":"Aenean lectus.","share":"Proin risus."},
+        {"id":5,"location_name":"Yodel","lat":-6.3192,"lng":105.8994,"address_line":"15 Nevada Circle","image":"http://dummyimage.com/242x289.png/ff4444/ffffff","pin":"In sagittis dui vel nisl.","share":"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi."},
+        {"id":6,"location_name":"Oyoba","lat":4.733779,"lng":-74.2627569,"address_line":"44229 Atwood Crossing","image":"http://dummyimage.com/223x287.png/5fa2dd/ffffff","pin":"Praesent id massa id nisl venenatis lacinia.","share":"Aenean auctor gravida sem."},
+        {"id":7,"location_name":"Yakidoo","lat":1.140872,"lng":-77.8645669,"address_line":"515 Karstens Park","image":"http://dummyimage.com/224x300.png/ff4444/ffffff","pin":"Praesent lectus.","share":"Cras pellentesque volutpat dui."},
+        {"id":8,"location_name":"Geba","lat":9.0764785,"lng":7.398574,"address_line":"4670 Daystar Terrace","image":"http://dummyimage.com/243x293.png/ff4444/ffffff","pin":"Nullam molestie nibh in lectus.","share":"Aenean auctor gravida sem."},
+        {"id":9,"location_name":"Browsecat","lat":-33.4488897,"lng":-70.6692655,"address_line":"88226 Sommers Plaza","image":"http://dummyimage.com/240x281.png/cc0000/ffffff","pin":"Nam dui.","share":"Suspendisse potenti."},
+        {"id":10,"location_name":"Kwilith","lat":41.9227482,"lng":-8.5332804,"address_line":"0 Stone Corner Avenue","image":"http://dummyimage.com/237x293.png/dddddd/000000","pin":"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.","share":"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi."}]
+    ],
+    "products": [
+        [{"id":1,"product_name":"semper interdum mauris","image":"http://dummyimage.com/281x278.png/5fa2dd/ffffff","price":86.87,"stock_count":20},
+        {"id":2,"product_name":"suspendisse","image":"http://dummyimage.com/258x344.png/dddddd/000000","price":4.72,"stock_count":87},
+        {"id":3,"product_name":"cubilia curae donec","image":"http://dummyimage.com/266x300.png/5fa2dd/ffffff","price":97.0,"stock_count":79},
+        {"id":4,"product_name":"fusce","image":"http://dummyimage.com/257x325.png/5fa2dd/ffffff","price":4.26,"stock_count":0},
+        {"id":5,"product_name":"tristique est","image":"http://dummyimage.com/284x343.png/cc0000/ffffff","price":93.91,"stock_count":39},
+        {"id":6,"product_name":"semper rutrum nulla","image":"http://dummyimage.com/257x292.png/cc0000/ffffff","price":35.3,"stock_count":6},
+        {"id":7,"product_name":"cubilia curae","image":"http://dummyimage.com/339x287.png/cc0000/ffffff","price":27.08,"stock_count":19},
+        {"id":8,"product_name":"sagittis nam","image":"http://dummyimage.com/345x306.png/ff4444/ffffff","price":80.65,"stock_count":38},
+        {"id":9,"product_name":"mauris morbi non","image":"http://dummyimage.com/340x254.png/dddddd/000000","price":23.04,"stock_count":43},
+        {"id":10,"product_name":"pretium nisl","image":"http://dummyimage.com/324x309.png/cc0000/ffffff","price":4.42,"stock_count":58}]
+    ]
+}
